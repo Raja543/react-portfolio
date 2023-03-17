@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,800;1,800&family=Roboto:wght@500&family=Sofia&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+.projects-section {
+  height: 90vh;
+  background-color: black;
+  padding-top: 5px;
+  padding-left: 80px;
+}
+
+.projects-content {
+  margin-left: 50px;
+  height: 86vh;
+}
+
+.projects-heading {
+  font-family: "Alegreya Sans", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Sofia", cursive;
+  text-align: left;
+  font-size: 60px;
+  letter-spacing: 0.5rem;
+  color: aqua;
+  margin-top: 10px;
+  width: 50%;
+}
+
+.project-mainbrief {
+  color: rgba(255, 255, 255, 0.486);
+  margin-top: -30px;
+  padding: 5px;
+  max-width: 600px;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 1px;
+  margin-left: 5px;
+  text-align: justify;
+}
+
+
+/* .card-container {
+  width: 60%;
+  height: 50vh;
+} */
+

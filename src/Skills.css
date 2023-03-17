@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,800;1,800&family=Roboto:wght@500&family=Sofia&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+.skills-section {
+  height: 89vh;
+  background-color: black;
+  padding-top: 5px;
+  padding-left: 80px;
+}
+
+.skills-content {
+  width: 98%;
+  height: 85vh;
+}
+
+.skills-heading {
+  font-family: "Alegreya Sans", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Sofia", cursive;
+  text-align: left;
+  font-size: 60px;
+  letter-spacing: 0.5rem;
+  color: aqua;
+  margin-top: 10px;
+  width: 50%;
+}
+.skills-text {
+  color: rgba(255, 255, 255, 0.486);
+  margin-top: -15px;
+  margin-left: 15px;
+
+  padding: 20px;
+  max-width: 600px;
+  font-size: 22px;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 0.1rem;
+}
+
+.right-skills {
+  float: right;
+  margin-top: 155px;
+  margin-right: 145px;
+  width: 350px;
+  height: 50vh;
+  border: 2px solid aqua;
+}
+
+.img-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.svg-icon {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  gap: 15px;
+  margin-top: 15px;
+}
+
+.svg-icon svg {
+  width: 100%;
+  height: 100%;
+}
+

@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,800;1,800&family=Roboto:wght@500&family=Sofia&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+.about-section {
+  height: 95vh;
+  background-color: black;
+  padding-top: 5px;
+  padding-left: 80px;
+}
+
+.about-content {
+  width: 98%;
+  height: 85vh;
+}
+
+.about-heading {
+  font-family: "Alegreya Sans", sans-serif;
+  font-family: "Roboto", sans-serif;
+  font-family: "Sofia", cursive;
+  text-align: left;
+  font-size: 75px;
+  letter-spacing: 0.5rem;
+  color: aqua;
+  margin-left: 45px;
+  margin-top: 20px;
+}
+.about-text {
+  color: rgba(255, 255, 255, 0.486);
+  margin-top: -30px;
+  padding: 5px;
+  max-width: 800px;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 1px;
+  margin-left: 55px;
+  text-align: justify;
+}
+
+.cta-button {
+  margin-top: 10px;
+  margin-left: 75px;
+  color: #08fdd8;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: transparent;
+  border-color: #08fdd8;
+  font-size: 18px;
+  padding: 10px;
+  width: 170px;
+  cursor: pointer;
+}
